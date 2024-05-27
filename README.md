@@ -29,4 +29,5 @@
 >기술 스택:  
 > Java / Spring Boot / maven / JPA / QueryDSL
 > Oracle / Spring Security / JavaScript / HTML/CSS /
-> jQuery / JSP / Thymeleaf / 
+> jQuery / JSP / Thymeleaf /
+> Spring Data Jpa
