@@ -25,7 +25,7 @@
 ### 1. [Ezmarket](https://github.com/Minjae1357/Ezmarket)
 > (팀 프로젝트)  
 >개발 기간: 2024.3.8 ~ 2024.5.8  
->  
+>  (소스트리도 이용함)
 >기술 스택:  
 > Java / Spring Boot / maven / JPA / QueryDSL
 > Oracle / Spring Security / JavaScript / HTML/CSS /
